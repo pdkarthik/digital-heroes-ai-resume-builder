@@ -1,6 +1,6 @@
-# AI-Powered Resume Builder
+# 🤖 AI Resume Builder — Career Architect
 
-**Live Demo**: [https://ai-resume-builder-puiu.onrender.com](https://ai-resume-builder-puiu.onrender.com)
+**Live Demo**: [https://digital-heroes-ai-resume-builder.vercel.app](https://digital-heroes-ai-resume-builder.vercel.app)
 
 An intelligent, full-stack application designed to streamline the career application process. This platform analyzes job descriptions against a user's base capabilities to generate professionally tailored, ATS-optimized resumes and cover letters in real-time.
 
