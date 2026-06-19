@@ -1,4 +1,4 @@
-# 🤖 AI Resume Builder — Career Architect
+# 🤖 AI Resume Builder & Career Architect | Built for [Digital Heroes](https://digitalheroesco.com)
 
 **Live Demo**: [https://digital-heroes-ai-resume-builder.vercel.app](https://digital-heroes-ai-resume-builder.vercel.app)
 
@@ -104,6 +104,3 @@ This application is configured for a unified deployment on Vercel. Both the Expr
 4. Click **Deploy**. Vercel will automatically build and host the application.
 
 ---
-
-**Built by**: Durga Karthik Panchumarthi | [dkarthik874@gmail.com](mailto:dkarthik874@gmail.com)  
-**Built for**: [Digital Heroes](https://digitalheroesco.com)
